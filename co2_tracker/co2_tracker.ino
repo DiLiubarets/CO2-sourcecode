@@ -63,5 +63,5 @@ void loop() {
     lcd.clear();
     lcd.print("Initializing");
   }
-  delay(3000);  //Send a request every 30 seconds
+  delay(3000);  //Send a request every 3 seconds
 }
