@@ -11,8 +11,8 @@ int co2 = 0;
 int rc  = 1;
 
 //enter details here
-String wifiName = "Alexandre's Pixel"; //your wifi name
-String wifiPassword = "s059960054"; //your wifi password
+String wifiName = ""; //your wifi name
+String wifiPassword = ""; //your wifi password
 String apiKey = "4icsphxnck3za91z5o7jq"; //your secret api key
 
 void setup() {
